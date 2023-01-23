@@ -57,3 +57,9 @@ typecheck: node_modules
 .PHONY: typecheck.watch
 typecheck.watch: node_modules
 	yarn tsc --noEmit --watch
+
+.PHONY: html
+html: node_modules
+	node --loader ts-node/esm ./bin/createBookmarkletsJson.ts
+	yarn ejs ./templates/templateFile.ejs -o ./dist/bookmarklets.html -f ./tmp/bookmarklets.json
+
