@@ -1,0 +1,1 @@
+javascript:(()=>{var%20n%3Ddocument.querySelector(%22title%22)%2Ce%3DdecodeURIComponent(window.location.href)%2Co%3Dn%3F.innerText%3B(async()%3D%3E%7Bif(o%26%26e)%7Blet%20n%3D%5Bo%2Ce%5D.join(%22%20%22)%3Bawait%20window.navigator.clipboard.writeText(n)%7D%7D)().catch((e%3D%3Econsole.error(e)))%3B})()

@@ -16,9 +16,21 @@ Copy name and normalized link of the current item to clipboard
 
 Copy the value of `<title>` element to clipboard
 
+### [Copy document url and title as markdown or rich text](https://raw.githubusercontent.com/mkobayashime/bookmarklets/main/dist/copyMarkdownOrRichText.js)
+
+Copy the value of `<url>` and `<title>` element to clipboard as markdown or rich text
+
+### [Copy document url and title for scrapbox](https://raw.githubusercontent.com/mkobayashime/bookmarklets/main/dist/copyScrapbox.js)
+
+Copy the value of `<url> and `<title>` element to clipboard for scrapbox
+
 ### [Copy lyrics](https://raw.githubusercontent.com/mkobayashime/bookmarklets/main/dist/copyLyrics.js)
 
 Automatically Copy lyrics to clipboard in supported sites
+
+### [Copy url and title for podcast description](https://raw.githubusercontent.com/mkobayashime/bookmarklets/main/dist/copyForPodcast.js)
+
+Copy the value of `<url>` and `<title>` element to clipboard for podcast description
 
 ### [Enable selection](https://raw.githubusercontent.com/mkobayashime/bookmarklets/main/dist/enableSelection.js)
 
