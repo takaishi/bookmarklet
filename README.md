@@ -1,6 +1,6 @@
 # Bookmarklets
 
-Bookmarklets made by mkobayashime.
+This is forked from https://github.com/mkobayashime/bookmarklets made by mkobayashime.
 
 All of them are written just for myself, so I bear no responsibility.
 
